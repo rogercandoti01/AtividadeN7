@@ -8,5 +8,6 @@ public class calculosSumeSub {
     public static void main(String[] args) {
         int resultado = sub(10, 10);
         System.out.println(resultado);
+        
     }
 }
